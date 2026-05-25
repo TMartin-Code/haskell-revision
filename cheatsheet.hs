@@ -224,7 +224,9 @@ doNotationExample = do
     b <- safeDivide a 2.0
     safeDivide b 2.0  -- Returns Just 1.25
 
-
+-- Part 2
+risingSubseqLength :: [Int] -> Int
+risingSubseqLength [
 -------------------------------------------------------------------------------
 -- 11. INPUT/OUTPUT (I/O)
 -------------------------------------------------------------------------------
